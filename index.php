@@ -39,6 +39,9 @@ if (isset($_POST["login"])){
             </div>
             <div>
                 <button type="submit" name="login">Login</button>
+            </div><br>
+            <div>
+                <a href="registrasi.php">klik ini untuk registrasi</a>
             </div>
         </form>
     </div>
